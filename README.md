@@ -3,7 +3,8 @@
 ## Overview
 This project is a complete eCommerce application built using modern web development technologies. It includes a React-based frontend, a Node.js backend with Express, and MongoDB as the database. The application supports user authentication, product management, cart functionality, order placement, and integrates with Stripe and Razorpay payment gateways. The application is fully deployed on Vercel.
 
-![Screenshot 2024-12-11 111020](https://github.com/user-attachments/assets/1d587b69-6c8b-4121-892e-fc7d4fe21c6d)
+## Developed By
+This project was designed and developed by MOHSIN KHAN as a full-stack web application for learning and practice purposes.
 
 ## Features
 - **Frontend**: Responsive design with React.js and routing.
